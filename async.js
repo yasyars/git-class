@@ -27,7 +27,3 @@ async function main() {
 
 // Call the main function
 main();
-
-//1. Hasilnya promise (gk berhasil dan gk ggl jg)
-//2. kemungkinan berhasil (result json) 
-//3. berhasil tp ditunggu dulu 3 detik
